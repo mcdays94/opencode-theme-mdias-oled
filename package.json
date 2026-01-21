@@ -1,0 +1,20 @@
+{
+  "name": "opencode-theme-mdias-oled",
+  "version": "1.0.0",
+  "description": "A vibrant OLED-friendly theme for OpenCode with pure black background, marine green accents, and hot pink highlights",
+  "keywords": [
+    "opencode",
+    "theme",
+    "oled",
+    "dark-theme"
+  ],
+  "author": "miguelcaetanodias",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelcaetanodias/opencode-theme-mdias-oled"
+  },
+  "files": [
+    "themes"
+  ]
+}
