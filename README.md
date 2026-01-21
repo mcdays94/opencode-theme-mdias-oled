@@ -26,7 +26,7 @@ A vibrant OLED-friendly theme for [OpenCode](https://opencode.ai) with pure blac
 
 ```bash
 cd ~/.config/opencode
-npm install opencode-theme-mdias-oled
+npm install mcdays94/opencode-theme-mdias-oled
 ```
 
 Then add to your `opencode.jsonc`:
