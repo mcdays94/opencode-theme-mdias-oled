@@ -2,6 +2,12 @@
 
 A vibrant OLED-friendly theme for [OpenCode](https://opencode.ai) with pure black background, marine green accents, and hot pink highlights.
 
+## Screenshots
+
+![Start screen](images/start.png)
+
+![Theme showcase](images/showcase.png)
+
 ## Color Palette
 
 | Role | Color | Hex |
