@@ -1,6 +1,15 @@
 # mdias-oled
 
-A vibrant OLED-friendly theme for [OpenCode](https://opencode.ai) with pure black background, marine green accents, and hot pink highlights.
+```
+  ███╗   ███╗██████╗ ██╗ █████╗ ███████╗        █████╗ ██╗     ███████╗██████╗
+  ████╗ ████║██╔══██╗██║██╔══██╗██╔════╝       ██╔══██╗██║     ██╔════╝██╔══██╗
+  ██╔████╔██║██║  ██║██║███████║███████╗█████╗ ██║  ██║██║     █████╗  ██║  ██║
+  ██║╚██╔╝██║██║  ██║██║██╔══██║╚════██║╚════╝ ██║  ██║██║     ██╔══╝  ██║  ██║
+  ██║ ╚═╝ ██║██████╔╝██║██║  ██║███████║       ╚█████╔╝███████╗███████╗██████╔╝
+  ╚═╝     ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝        ╚════╝ ╚══════╝╚══════╝╚═════╝
+```
+
+A vibrant OLED-friendly theme for [OpenCode](https://opencode.ai) with pure black background, marine green accents, and hot pink highlights. Inspired by **vaporwave** aesthetics.
 
 ## Screenshots
 
@@ -42,6 +51,10 @@ Then add to your `opencode.jsonc`:
   "theme": "mdias_oled"
 }
 ```
+
+## Inspiration
+
+This theme draws inspiration from **vaporwave** aesthetics - combining neon cyans and hot pinks against pure black, evoking late-night coding sessions and retro-futuristic vibes.
 
 ## License
 
