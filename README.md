@@ -44,6 +44,7 @@ Then add to your `opencode.jsonc`:
   "theme": "mdias_oled"
 }
 ```
+Or just prompt opencode to fetch the theme from this repo.
 
 ## Inspiration
 
